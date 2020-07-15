@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ex1</folder>
+	<filename>201909020751050000_粤ERW071.jpg</filename>
+	<path>D:\新桌面\python-reconition\picture\ex1\201909020751050000_粤ERW071.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>2</ymin>
+			<xmax>753</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

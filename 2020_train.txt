@@ -1,0 +1,2 @@
+D:\新桌面\python-reconition\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/201909020733510000_粤E8527W.jpg 334,3,796,329,0
+D:\新桌面\python-reconition\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/201909020751050000_粤ERW071.jpg 245,2,753,330,0

@@ -1,0 +1,1 @@
+D:\ÐÂ×ÀÃæ\python-reconition\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/201909020726290000_ÔÁE44C11.jpg 328,3,734,317,0
